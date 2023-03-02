@@ -29,4 +29,4 @@ char *_strcat(char *dest, char *src)
 		len2++;
 	}
 	return (dest);
-}	
+}
